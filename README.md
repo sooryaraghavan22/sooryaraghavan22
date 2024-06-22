@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Soorya KV</h1>
+<h3 align="center">A passionate Data Analyst📊 from India</h3>
 
-<!--
-**sooryaraghavan22/sooryaraghavan22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m a life long learner, currently exploring more about Data Analytics!
 
-Here are some ideas to get you started:
+- 📚 Specialized in data cleaning, data analysis, and data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning and upskilling myself.
+
+- 🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query & MS Excel.
+
+- 💬 Ask me about SQL, Power BI.
+
+- 📫 Reach me at Gmail [sooryaraghavan22@gmail.com](sooryaraghavan22@gmail.com)
+
+- 🔗 Connect with me at LinkedIn [https://www.linkedin.com/in/soorya-kv-4bb21622a/](https://www.linkedin.com/in/soorya-kv-4bb21622a/)
+
+- ❤️ I love learning new things!
+
+<p align="left">
+</p>
